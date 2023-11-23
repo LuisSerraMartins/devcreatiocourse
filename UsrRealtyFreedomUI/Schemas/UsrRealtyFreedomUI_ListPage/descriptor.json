@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "14d020a7-79a1-49d2-97d0-3dce23378a56",
+    "Name": "UsrRealtyFreedomUI_ListPage",
+    "ModifiedOnUtc": "\/Date(1700764487000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RealtyFreedomUI list page",
+    "DependsOn": []
+  }
+}
