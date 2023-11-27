@@ -3,8 +3,19 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="RealtyFreedomUI form page" />
+			<Item Name="LocalizableStrings.addRecord_3j90l6y_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_46ohozn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fahen07_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hoa9czw_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_vrpmmj4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_kjhur2p_caption.Value" Value="Push!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_50n16ws_title.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_542efa4_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_bwl6cb1_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_9kj83ti_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ohxh18y_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_4apycv5_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_utq39ia_caption.Value" Value="Actions" />
 		</Items>
 	</Group>
 </Resources>
