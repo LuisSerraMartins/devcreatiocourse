@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "8dc728c2-df44-c53e-dfa4-a4a26536adc7",
     "Name": "UsrRealtyOfferTypeFreedomUI_all",
-    "ModifiedOnUtc": "\/Date(1700773557000)\/",
+    "ModifiedOnUtc": "\/Date(1701128469000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "27f72c0d-ec6d-4e3a-a1d6-4cc6e39a2e0d",
@@ -17,11 +17,11 @@
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
-        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "CreatedOn",
-        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       },
       {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
@@ -31,11 +31,18 @@
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
-        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "ColumnUId": "4453391e-cec4-d549-a48c-e211ad017be2",
         "IsForceUpdate": false,
-        "IsKey": true,
-        "ColumnName": "Id",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+        "IsKey": false,
+        "ColumnName": "UsrCommissionPercent",
+        "DataTypeValueUId": "ff22e049-4d16-46ee-a529-92d8808932dc"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
       }
     ]
   }
